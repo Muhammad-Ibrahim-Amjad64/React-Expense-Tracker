@@ -1,0 +1,11 @@
+.App {
+  /* text-align: center; */
+  /* background-color: #7acaa2; */
+  /* background-color: #3b5e70; */
+  margin: 0;
+  padding: 0;
+  /* background-color: #a27ab0; */
+  flex:1;
+  display: flex;
+  flex-direction: column;
+}
